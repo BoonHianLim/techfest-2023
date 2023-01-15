@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6ab30ce-2e7d-4b55-be7a-1004f6114f69" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/techfest-2023.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TechFest/static/css/searchbar.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TechFest/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/TechFest/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TechFest/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TechFest/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673759696921</updated>
       <workItem from="1673759698190" duration="3040000" />
-      <workItem from="1673764709256" duration="1162000" />
+      <workItem from="1673764709256" duration="4733000" />
     </task>
     <servers />
   </component>
@@ -56,7 +64,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
