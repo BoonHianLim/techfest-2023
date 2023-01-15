@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6ab30ce-2e7d-4b55-be7a-1004f6114f69" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/TechFest/static/css/sidebar.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TechFest/static/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/TechFest/static/css/responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TechFest/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/TechFest/static/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TechFest/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TechFest/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
