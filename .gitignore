@@ -1,8 +1,7 @@
 **/.idea/workspace.xml
 **/.idea/tasks.xml
 __pycache__/
-<<<<<<< HEAD
 TechFest/__pycache__/
 core/__pycache__/
-=======
->>>>>>> 5a82a37 (gitignore add pycache)
+.idea/
+**/.idea/
